@@ -5,7 +5,7 @@ Set virtual environment using `pipenv`:
 pipenv install
 ```
 
-start scraping data with 
+Start scraping data with 
 ```
 pipenv run python main.py
 ```
